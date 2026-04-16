@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "giraffe",
   "bot-account": {
     "username": "Ebo_Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Servername.aternos.me",  [Change only IP and port and delete this box]
-    "port": Port_here,
+    "ip": "Lmaogng.aternos.me",
+    "port": 13592,
     "version": "1.21.11",
     "try-creative": false
   },
